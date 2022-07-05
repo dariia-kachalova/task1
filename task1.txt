@@ -1,4 +1,5 @@
 example text 1
 text example 2
-example text 3
+third line was changed
 example text 4
+fifth line
